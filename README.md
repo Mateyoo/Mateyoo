@@ -16,6 +16,7 @@
 [<img align="left" alt="mateyo#0001 | Discord" width="22px" src="https://www.iconsdb.com/icons/download/white/discord-128.png" />][discord]
 [<img align="left" alt="okostojas | Telegram" width="22px" src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-4.jpg" />][telegram]
 [<img align="left" alt="@mateyo:mateyo.hu | Matrix" width="22px" src="https://mateyo.hu/assets/matrix.png" />][matrix]
+[<img align="left" alt="mateyo | Steam" width="22px" src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-black-transparent.png" />][steam]
 
 <br />
 
@@ -52,6 +53,7 @@
 [discord]: https://dsc.bio/mateyo
 [telegram]: https://t.me/okostojas
 [matrix]: https://matrix.to/#/@mateyo:mateyo.hu
+[steam]: https://steamcommunity.com/id/mateyo0001
 [mannin gang]: https://discord.gg/BVFzjwBKk2
 [csajszibarackok]: https://discord.gg/wz6bWcGFpp
 [msmp]: https://dsc.gg/manninsmp
