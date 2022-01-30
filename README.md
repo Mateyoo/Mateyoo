@@ -8,14 +8,14 @@
 
 ### Contacts:
 
-[<img align="left" alt="mateyo.hu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mateyo1337" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="mateyo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mateyo1337 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mateyo1337 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mateyo#0001 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="okostojas | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="@mateyo:mateyo.hu | Matrix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matrix.svg" />][matrix]
+[<img align="left" alt="mateyo.hu" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
+[<img align="left" alt="mateyo1337" width="22px" src="https://logosarchive.com/wp-content/uploads/2021/05/Facebook-White-icon.svg" />][facebook]
+[<img align="left" alt="mateyo | YouTube" width="22px" src="https://buildair.com/wp-content/uploads/2019/04/youtube_icona.png" />][youtube]
+[<img align="left" alt="mateyo1337 | Twitter" width="22px" src="https://a0k1verse.xyz/img/twitter-logo.6c3dbe17.svg" />][twitter]
+[<img align="left" alt="mateyo1337 | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
+[<img align="left" alt="mateyo#0001 | Discord" width="22px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-White-1024x780.png" />][discord]
+[<img align="left" alt="okostojas | Telegram" width="22px" src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-4.jpg" />][telegram]
+[<img align="left" alt="@mateyo:mateyo.hu | Matrix" width="22px" src="https://mateyo.hu/assets/matrixlogo.svg" />][matrix]
 
 <br />
 
