@@ -33,9 +33,9 @@
 ### Projects:
 
 - owner @ [csajszibarackok]
-- admin @ [mannin]
+- admin @ [mannin gang]
 - server manager @ [msmp]
-- ezredes @ [ftm]
+- ezredes @ [freezyteam]
 
 [website]: https://mateyo.hu
 [facebook]: https://facebook.com/mateyo1337
@@ -45,7 +45,7 @@
 [discord]: https://dsc.bio/mateyo
 [telegram]: https://t.me/okostojas
 [matrix]: https://matrix.to/#/@mateyo:mateyo.hu
-[mannin]: https://discord.gg/BVFzjwBKk2
+[mannin gang]: https://discord.gg/BVFzjwBKk2
 [csajszibarackok]: https://discord.gg/wz6bWcGFpp
 [msmp]: https://dsc.gg/manninsmp
-[ftm]: https://discord.gg/KfzJ2ujZN3
+[freezyteam]: https://discord.gg/KfzJ2ujZN3
