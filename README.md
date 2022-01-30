@@ -15,7 +15,7 @@
 [<img align="left" alt="mateyo1337 | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
 [<img align="left" alt="mateyo#0001 | Discord" width="22px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-White-1024x780.png" />][discord]
 [<img align="left" alt="okostojas | Telegram" width="22px" src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-4.jpg" />][telegram]
-[<img align="left" alt="@mateyo:mateyo.hu | Matrix" width="22px" src="https://mateyo.hu/assets/matrixlogo.svg" />][matrix]
+[<img align="left" alt="@mateyo:mateyo.hu | Matrix" width="22px" src="https://mateyo.hu/assets/matrix.png" />][matrix]
 
 <br />
 
