@@ -35,7 +35,7 @@
 - owner @ [csajszibarackok]
 - admin @ [mannin gang]
 - server manager @ [msmp]
-- ezredes @ [freezyteam]
+- pipacshvh @ [freezyteam]
 
 [website]: https://mateyo.hu
 [facebook]: https://facebook.com/mateyo1337
