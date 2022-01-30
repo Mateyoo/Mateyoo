@@ -13,7 +13,7 @@
 [<img align="left" alt="mateyo | YouTube" width="22px" src="https://buildair.com/wp-content/uploads/2019/04/youtube_icona.png" />][youtube]
 [<img align="left" alt="mateyo1337 | Twitter" width="22px" src="https://a0k1verse.xyz/img/twitter-logo.6c3dbe17.svg" />][twitter]
 [<img align="left" alt="mateyo1337 | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-white-border-icon-png-large.png" />][instagram]
-[<img align="left" alt="mateyo#0001 | Discord" width="22px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-White-1024x780.png" />][discord]
+[<img align="left" alt="mateyo#0001 | Discord" width="22px" src="https://www.iconsdb.com/icons/download/white/discord-128.png" />][discord]
 [<img align="left" alt="okostojas | Telegram" width="22px" src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-4.jpg" />][telegram]
 [<img align="left" alt="@mateyo:mateyo.hu | Matrix" width="22px" src="https://mateyo.hu/assets/matrix.png" />][matrix]
 
