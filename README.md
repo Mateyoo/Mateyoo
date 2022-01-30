@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: HTML, CSS, Docker
 - 🥅 2022 Goals: Learn programming languages, help people, be happy.
 
-### Contacts:
+### Find me on:
 
 [<img align="left" alt="mateyo.hu" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
 [<img align="left" alt="mateyo1337" width="22px" src="https://logosarchive.com/wp-content/uploads/2021/05/Facebook-White-icon.svg" />][facebook]
