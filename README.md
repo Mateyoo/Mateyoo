@@ -1,5 +1,8 @@
 ### Hi there, I'm Máté - aka [Mateyo][website] 👋 
 
+[![Website](https://img.shields.io/website?label=mateyo.hu&style=for-the-badge&url=https%3A%2F%2Fmateyo.hu)](https://mateyo.hu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mateyo1337?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmateyo1337&screen_name=mateyo1337)
+
 ## I'm a Graphic designer, editor, primary school student
 
 - ❤ 14 years old
